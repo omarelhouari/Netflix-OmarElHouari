@@ -1,0 +1,51 @@
+.language-picker{
+  background: black;
+  color:#757575;
+  margin-top: 30px;
+  font-size: 2vw;
+  padding: 15px;
+  content: \01F310;
+  margin-right: 70%;
+  margin-bottom: 30px;
+}
+@media  {
+.first-mail {
+ text-align:left;
+ align-content: center;
+ width: 40%;
+ height: 60px;
+ font-size: 15px;
+ border-top-left-radius: 0.5px;
+ border-bottom-left-radius: 0.5px;
+ margin-left: 0%;
+ margin-right: 0%;
+ margin-bottom: 0px;
+}
+@media (max-width: 949px) {
+.first-mail {
+ text-align:left;
+ align-content: center;
+ width: 60%;
+ height: 50px;
+ font-size: 15px;
+ border-top-left-radius: 0.5px;
+ border-bottom-left-radius: 0.5px;
+ margin-left: 15%;
+ margin-right: 15%;
+ margin-bottom: 10px;
+
+}
+@media (max-width: 720px) {
+.first-mail {
+ text-align:left;
+ align-content: center;
+ width: 90%;
+ height: 50px;
+ font-size: 15px;
+ border-top-left-radius: 0.5px;
+ border-bottom-left-radius: 0.5px;
+ margin-left: 5%;
+ margin-right: 5%;
+ margin-bottom: 10px;
+}
+

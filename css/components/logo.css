@@ -1,0 +1,23 @@
+@media  {
+.right {
+  height:50%;
+  width:50%;
+  margin-top:10px;
+}
+@media (max-width: 949px) {
+.right {
+  height:70%;
+  width:80%;
+  margin-left: 10%;
+  margin-top:0px;
+
+}
+@media (max-width: 540px) {
+.right {
+  height:100%;
+  width:100%;
+  margin-left:0px;
+  margin-top:0px;
+
+}
+
